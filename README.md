@@ -19,4 +19,4 @@ To run the test, enter the following command: jest test/*
 # Questions
 If you have any questions, open an issue or contact abdinajibliban at : abdinajibliban@gmail.com.
 ## Walkthrough Video
-* [Walkthrough Video Link]()
+* [Walkthrough Video Link](https://www.youtube.com/watch?v=xePzssc8A5k&feature=youtu.be)
