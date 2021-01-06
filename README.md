@@ -15,7 +15,7 @@ This project is licensed under the MIT license.
 # Contributing
 ​Contributors: None
 # Tests
-To run the test, enter the following command: node app.js
+To run the test, enter the following command: jest test/*
 # Questions
 If you have any questions, open an issue or contact abdinajibliban at : abdinajibliban@gmail.com.
 ## Walkthrough Video
